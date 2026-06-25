@@ -45,8 +45,7 @@ Here are the milestone projects I built during my web development internship:
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnchalRaghav&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnchalRaghav&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnchalRaghav&theme=radium&hide_border=true" width="80%" />
 </div>
 
 <br />
