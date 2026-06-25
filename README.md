@@ -7,6 +7,9 @@
 <br />
 
 <div align="center">
+  <a href="https://anchal.qzz.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-anchal.qzz.io-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:anchalraghav275@gmail.com">
     <img src="https://img.shields.io/badge/Email-anchalraghav275@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
